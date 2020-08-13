@@ -1,6 +1,10 @@
 1.什么是隐马尔可夫模型(HMM)
 https://www.jianshu.com/p/36fcd8caabdc
 https://github.com/Dod-o/Statistical-Learning-Method_Code/blob/master/HMM/HMM.py
+教程：(1.)https://blog.csdn.net/gordon_wei/article/details/70319042
+      (2.)https://www.jianshu.com/p/36fcd8caabdc
+      
+      
 (隐马尔可夫模型)HMM是统计模型，它用来描述一个含有隐含未知参数的马尔可夫过程。
 其难点是从可观察的参数中确定该过程的隐含参数。然后利用这些参数来作进一步的分析
 可观测的状态推测不可观测状态；
