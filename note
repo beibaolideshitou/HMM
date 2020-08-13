@@ -5,7 +5,7 @@
 # 维特比算法讲解：https://www.zhihu.com/question/20136144/answer/763021768
 
 # 词向量：https://github.com/DA-southampton/NLP_ability/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%8D%E5%90%91%E9%87%8F/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E8%AF%8D%E5%90%91%E9%87%8F%E9%9D%A2%E8%AF%95%E9%A2%98%E6%A2%B3%E7%90%86.md
-
+02 隐马尔可夫模型 - HMM的三个问题 - 概率计算问题:https://www.jianshu.com/p/c80ca0aa4213
 
 hmm:隐马尔可夫模型hmm  --->>作用为描述隐藏状态序列与显性观测序列组合的双重随机过程；
 一、基本定义：一般是由于隐藏序列状态会激发显性观测序列的表现类型；
